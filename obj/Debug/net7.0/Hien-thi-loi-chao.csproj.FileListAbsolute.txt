@@ -1,0 +1,15 @@
+C:\Users\nghia\Source\Repos\nghiatrantrong188\Hien-thi-loi-chao\bin\Debug\net7.0\Hien-thi-loi-chao.exe
+C:\Users\nghia\Source\Repos\nghiatrantrong188\Hien-thi-loi-chao\bin\Debug\net7.0\Hien-thi-loi-chao.deps.json
+C:\Users\nghia\Source\Repos\nghiatrantrong188\Hien-thi-loi-chao\bin\Debug\net7.0\Hien-thi-loi-chao.runtimeconfig.json
+C:\Users\nghia\Source\Repos\nghiatrantrong188\Hien-thi-loi-chao\bin\Debug\net7.0\Hien-thi-loi-chao.dll
+C:\Users\nghia\Source\Repos\nghiatrantrong188\Hien-thi-loi-chao\bin\Debug\net7.0\Hien-thi-loi-chao.pdb
+C:\Users\nghia\Source\Repos\nghiatrantrong188\Hien-thi-loi-chao\obj\Debug\net7.0\Hien-thi-loi-chao.csproj.AssemblyReference.cache
+C:\Users\nghia\Source\Repos\nghiatrantrong188\Hien-thi-loi-chao\obj\Debug\net7.0\Hien-thi-loi-chao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nghia\Source\Repos\nghiatrantrong188\Hien-thi-loi-chao\obj\Debug\net7.0\Hien-thi-loi-chao.AssemblyInfoInputs.cache
+C:\Users\nghia\Source\Repos\nghiatrantrong188\Hien-thi-loi-chao\obj\Debug\net7.0\Hien-thi-loi-chao.AssemblyInfo.cs
+C:\Users\nghia\Source\Repos\nghiatrantrong188\Hien-thi-loi-chao\obj\Debug\net7.0\Hien-thi-loi-chao.csproj.CoreCompileInputs.cache
+C:\Users\nghia\Source\Repos\nghiatrantrong188\Hien-thi-loi-chao\obj\Debug\net7.0\Hien-thi-loi-chao.dll
+C:\Users\nghia\Source\Repos\nghiatrantrong188\Hien-thi-loi-chao\obj\Debug\net7.0\refint\Hien-thi-loi-chao.dll
+C:\Users\nghia\Source\Repos\nghiatrantrong188\Hien-thi-loi-chao\obj\Debug\net7.0\Hien-thi-loi-chao.pdb
+C:\Users\nghia\Source\Repos\nghiatrantrong188\Hien-thi-loi-chao\obj\Debug\net7.0\Hien-thi-loi-chao.genruntimeconfig.cache
+C:\Users\nghia\Source\Repos\nghiatrantrong188\Hien-thi-loi-chao\obj\Debug\net7.0\ref\Hien-thi-loi-chao.dll
